@@ -1,0 +1,1 @@
+﻿https://www.arthurwiz.com/software-development/how-to-implement-azure-redis-cache-using-net-c-in-your-web-application-and-when-to-upgrade-your-azure-service-plan
